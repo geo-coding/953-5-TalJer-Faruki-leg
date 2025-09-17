@@ -17,6 +17,6 @@ BREG
 
 | kati | sip |
 | -------------- | --------------- |
-| perdhesa  | 101.31 |
-| kati 1    | 108.50 |
-| gjithsej: | 209.81 |
+| perdhesa  | 65.67  |
+| kati 1    | 65.67  |
+| gjithsej: | 131.34 |
